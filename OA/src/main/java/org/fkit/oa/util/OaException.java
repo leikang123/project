@@ -1,5 +1,7 @@
 package org.fkit.oa.util;
 
+
+// 异常类
 public class OaException extends RuntimeException {
 
 	private static final long serialVersionUID = 1L;
