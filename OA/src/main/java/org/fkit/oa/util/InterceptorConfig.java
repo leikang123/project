@@ -7,12 +7,9 @@ import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 /**
- * @Author dlei(徐磊)
- * @Tel  18665616520
- * @Email dlei0009@163.com
- * @QQ 251425887
+ * 
  * @Date 2017年10月28日下午2:19:30
- * @From http://www.fkjava.org 疯狂软件
+ * @From http://www.fkjava.org 
  * @Version 1.0
  * 加入拦截器的配置 ：用于拦截用户的请求，判断是否登录或者判断是否拥有了权限
  * 如果拥有了权限就进行请求的放行
