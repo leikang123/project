@@ -10,10 +10,7 @@ import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
 
 /**
- * @author xlei
- * @Email dlei0006@163.com
- * @QQ 251425887
- * @Tel 18665616520
+ *模块存储接口
  * @Date 2017年1月14日上午9:44:47
  * @From http://www.fkjava.org 
  *
