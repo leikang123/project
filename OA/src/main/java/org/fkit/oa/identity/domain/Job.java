@@ -5,12 +5,7 @@ import java.io.Serializable;
 import javax.persistence.*;
 
 /**
- * @Author xlei @tel 13360026135 @qq 251425887
- * @Date 2015年9月6日下午1:12:24
- * @Email dlei0009@163.com
- * @Version 1.0
- * @From http://www.fkit.org
- *
+ * 职位类
  */
 @Entity @Table(name="OA_ID_JOB")
 //@Cache(usage=CacheConcurrencyStrategy.READ_WRITE)
