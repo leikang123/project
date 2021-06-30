@@ -8,10 +8,7 @@ import javax.servlet.http.HttpServletResponse;
 import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;
 
 /**
- * @author xlei
- * @Email dlei0006@163.com
- * @QQ 251425887
- * @Tel 18665616520
+ * 
  * @Date 2017年1月15日上午9:35:56
  * @From http://www.fkjava.org 
  * 登录拦截器 
