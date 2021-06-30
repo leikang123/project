@@ -10,6 +10,8 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
+
+// 请求业务控制类
 @Controller
 @RequestMapping("/oa")
 public class RequestController {
