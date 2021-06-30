@@ -2,10 +2,7 @@ package org.fkit.common.util.pager;
 
 
 /**
- * @Author xlei
- * @Tel 13360026135
- * @Email 251425887@qq.com
- * @Version 1.0
+ * 
  * @Time 2016年3月10日/上午11:25:56
  * @From www.fkjava.org
  *  分页实体 
