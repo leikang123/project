@@ -5,9 +5,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * @Author dlei(徐磊)
- * @Email dlei0009@163.com
- * @QQ 251425887
+ * 
+ * 
  * @Date 2017年7月23日下午8:06:42
  * @From http://www.fkjava.org 疯狂软件
  * @Version 1.0
