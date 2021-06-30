@@ -25,6 +25,7 @@ import javax.persistence.TemporalType;
  * @From http://www.fkit.org
  *
  */
+
 @Entity @Table(name="OA_ID_USER", 
 		indexes={@Index(columnList="NAME", name="IDX_USER_NAME")})
 //@Cache(usage=CacheConcurrencyStrategy.READ_WRITE)
