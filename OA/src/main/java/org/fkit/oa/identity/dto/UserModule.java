@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import org.fkit.oa.identity.domain.Module;
-
+// 用户模块封装
 public class UserModule {
 	/** 一级模块 */
 	private Module firstModule;
