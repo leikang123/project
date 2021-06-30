@@ -1,10 +1,7 @@
 package org.fkit.oa.util;
 
 /**
- * @author xlei
- * @Email dlei0006@163.com
- * @QQ 251425887
- * @Tel 18665616520
+ *
  * @Date 2017年1月14日下午4:48:14
  * @From http://www.fkjava.org 
  *
