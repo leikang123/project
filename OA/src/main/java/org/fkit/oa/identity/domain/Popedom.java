@@ -7,9 +7,7 @@ import javax.persistence.*;
 
 
 /**
- * @Author xlei @tel 13360026135 @qq 251425887
- * @Date 2015年9月6日下午1:12:42
- * @Email dlei0009@163.com
+ * 
  * @Version 1.0
  * @From http://www.fkit.org
  *
