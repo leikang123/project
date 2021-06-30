@@ -15,6 +15,8 @@ import org.springframework.util.StringUtils;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
+
+// 用户控制类
 @Controller
 @RequestMapping("/identity/user")
 public class UserController {
